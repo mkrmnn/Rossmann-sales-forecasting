@@ -32,4 +32,4 @@ MAE: Tahminlerin mutlak hata ortalaması.
 
 MAPE: Satışlar üzerindeki yüzdelik hata oranı.
 
-Öne Çıkan Not: Model, mağaza kapanış günlerini (Pazar günleri ve tatiller) otomatik olarak saptayabilmekte ve tahminleri bu kısıtlara göre optimize etmektedir.
+Not: Model, mağaza kapanış günlerini (Pazar günleri ve tatiller) otomatik olarak saptayabilmekte ve tahminleri bu kısıtlara göre optimize etmektedir.
