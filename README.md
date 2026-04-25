@@ -1,5 +1,5 @@
  Rossmann Mağaza Satış Tahmini (Zaman Serisi Analizi)
-Bu proje, Rossmann mağazalar zincirinin geçmiş satış verilerini analiz ederek gelecek dönem satışlarını tahmin etmek amacıyla geliştirilmiştir. XGBoost algoritması kullanılarak, zaman serisi verileri üzerinde ileri düzey özellik mühendisliği (feature engineering) ve tahminleme yapılmıştır.
+Bu proje, Rossmann mağazalar zincirinin geçmiş satış verilerini analiz ederek gelecek dönem satışlarını tahmin etmek amacıyla geliştirilmiştir. XGBoost algoritması kullanılarak, zaman serisi verileri üzerinde feature engineering ve tahminleme yapılmıştır.
 
  Proje Özeti
 Stok yönetimi ve operasyonel verimliliği artırmak için doğru talep tahmini hayati önem taşır. Bu çalışma kapsamında:
